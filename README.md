@@ -1,4 +1,4 @@
-# Creating Pets
+# Creating uPets
 
 ## Objectives
 + Build constructor functions
